@@ -2,9 +2,13 @@
 
 ### Git e GitHub
 #### 1. GIT (Primeira)
+
 http://rogerdudler.github.io/git-guide/index.pt_BR.html
+
 https://www.digitalocean.com/community/tutorials/como-usar-o-git-um-guia-de-consulta-rapida-pt
+
 https://www.hostinger.com.br/tutoriais/comandos-basicos-de-git/#gref
+
 https://git-scm.com/book/pt-br/
 
 [x] git e github éstá ok.
@@ -17,12 +21,17 @@ https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#o
 
 #### 4. C# (estuda bem a linguagem)
 https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/
+
 https://docs.microsoft.com/pt-br/learn/browse/?resource_type=learning%20path&terms=C%23
+
 https://exercism.org/tracks/csharp/concepts
 
 #### 5. (pratica c#)
+
 https://www.hackerrank.com/
+
 https://www.codecademy.com/learn/learn-c-sharp
+
 https://www.caelum.com.br/apostila/apostila-csharp-orientacao-objetos.pdf
 
 
@@ -37,7 +46,9 @@ https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-web-api?view=aspnet
 https://docs.microsoft.com/pt-br/azure/architecture/best-practices/api-design
 
 #### 9. Entify framework é a biblioteta também bem comum no .net pra vc trabalhar com banco de dados (talvez usem ADO ou Hibernate mas saber um ajuda migrar pra outro)
+
 (https://docs.microsoft.com/pt-br/ef/) 
+
  https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0&tabs=visual-studio
 
 #### 10. Estudar DB (pega um MySQL ou a versão menor do MsSQL)
